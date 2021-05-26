@@ -1,0 +1,16 @@
+h1 {
+  background-color: #00FFFF;
+  text-align: center;
+}
+
+h2 {
+  background-color: #007FFF;
+  font-style: italic;
+  text-align: center;
+}
+
+h3 {
+  background-color: #006FFF;
+  font-style: oblique;
+  text-align: center;
+}
